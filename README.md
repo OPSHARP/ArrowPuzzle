@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=29,22,15,8,1&height=220&section=header&text=Arrow%20Escape&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%8E%AF%20Minimalist%20Directional%20Logic%20%E2%80%A2%20Spatial%20Puzzle%20Game&descAlignY=62&descAlign=50" width="100%" alt="Arrow Escape 3D Banner" />
-
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/ArrowPuzzle">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="95" height="95" alt="Arrow Escape 3D Icon" />
@@ -57,8 +54,4 @@ Arrow Escape includes a theme selection system with custom skins. If you use it 
 
 GPL v3
 
----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=29,22,15,8,1&height=100&section=footer" width="100%" alt="3D Waving Footer" />
-</div>
