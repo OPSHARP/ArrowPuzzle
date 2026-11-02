@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=29,22,15,8,1&height=220&section=header&text=Arrow%20Escape&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%8E%AF%20Minimalist%20Directional%20Logic%20%26%20Spatial%20Puzzle%20Game&descAlignY=62&descAlign=50" width="100%" alt="Arrow Escape 3D Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=29,22,15,8,1&height=220&section=header&text=Arrow%20Escape&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%8E%AF%20Minimalist%20Directional%20Logic%20%E2%80%A2%20Spatial%20Puzzle%20Game&descAlignY=62&descAlign=50" width="100%" alt="Arrow Escape 3D Banner" />
 
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/ArrowPuzzle">
